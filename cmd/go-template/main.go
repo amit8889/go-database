@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/amit8889/go-email-validator/internal/config"
+	"github.com/amit8889/go-project-template/internal/config"
 )
 
 func main() {

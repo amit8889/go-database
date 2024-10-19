@@ -1,4 +1,4 @@
-module github.com/amit8889/go-email-validator
+module github.com/amit8889/go-project-template
 
 go 1.22.2
 
