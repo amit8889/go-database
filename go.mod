@@ -1,11 +1,8 @@
-module github.com/amit8889/go-cache
+module github.com/amit8889/go-database
 
 go 1.22.2
 
-require (
-	github.com/amit8889/go-project-template v0.0.0-20241019124704-ab3f63223fed
-	github.com/ilyakaznacheev/cleanenv v1.5.0
-)
+require github.com/ilyakaznacheev/cleanenv v1.5.0
 
 require (
 	github.com/BurntSushi/toml v1.2.1 // indirect
